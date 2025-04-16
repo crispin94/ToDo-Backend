@@ -1,0 +1,18 @@
+# Ignore build folders
+bin/
+obj/
+
+# Ignore NuGet package files
+*.nupkg
+.nuget/
+
+# Ignore Visual Studio specific files
+.vscode/
+.idea/
+
+# Ignore local configuration files
+appsettings.Development.json
+
+# Ignore user-specific files
+*.user
+*.suo
